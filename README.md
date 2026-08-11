@@ -43,11 +43,11 @@
    ```
 
 3. **Configure the script:**
-   Update the `password` field in `bluescout.py` with your database credentials.
+   Update the `password` field in `bluescoutv2.py` with your database credentials.
 
 ### Usage
 ```bash
-python3 bluescout.py
+python3 bluescoutv2.py
 ```
 
 ### Disclaimer
@@ -92,11 +92,11 @@ This tool is developed for educational and defensive security (Blue Team) purpos
    ```
 
 3. **Script'i yapılandırın:**
-   `bluescout.py` dosyası içindeki `password` kısmını kendi veritabanı şifrenizle güncelleyin.
+   `bluescoutv2.py` dosyası içindeki `password` kısmını kendi veritabanı şifrenizle güncelleyin.
 
 ### Kullanım
 ```bash
-python3 bluescout.py
+python3 bluescoutv2.py
 ```
 
 ### Yasal Uyarı
